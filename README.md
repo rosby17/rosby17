@@ -7,28 +7,27 @@
   <img src="https://komarev.com/ghpvc/?username=rosby17&label=Profile%20views&color=0e75b6&style=flat" alt="rosby17 profile views" />
 </p>
 
-- 🧩 I build end-to-end products with **Python, React, TypeScript and JavaScript**
-- 🚀 I'm currently building **KappGen, iziVoice, Buy Me Data and custom web platforms**
-- 🖥️ I work with **Linux servers, Docker, VPS hosting, deployments and server operations**
-- 🗄️ I use **Supabase and relational databases** in full-stack products
-- 🔐 I have a practical interest in **information security and cryptography**
-- 🌱 I'm currently deepening my skills in **cloud infrastructure, DevOps and Kubernetes**
-- 🤖 I build AI-powered workflows with **Ollama, Qwen, OpenAI, Claude and AI agents**
+- 🧩 I design and build practical **web products** from idea to deployment
+- 🚀 Recent work includes **KappGen, iziVoice, Buy Me Data and WarapPay contributions**
+- 🛠️ I work across **frontend, backend, APIs, databases, infrastructure and deployments**
+- 🤖 I build applied AI workflows with **Ollama, Qwen, OpenAI, Claude and AI agents**
+- 🖥️ I operate **Linux/VPS environments, Docker, CI/CD pipelines and production services**
+- 🔐 I have a practical interest in **secure development and cryptography fundamentals**
 - 💬 Ask me about **FastAPI, Django, React/Vite, Supabase, APIs and product development**
 
 <h3 align="left">Featured projects:</h3>
 <p align="left">
-  <strong>KappGen</strong> — automated long-form video production · <a href="https://kappgen.com">Live site</a><br>
+  <strong>KappGen</strong> — long-form video production platform · <a href="https://kappgen.com">Live site</a><br>
   <strong>iziVoice</strong> — voice and audio product · <a href="https://izivoice.app/">Live site</a><br>
   <strong>Buy Me Data</strong> — creator support platform · <a href="https://buymedata.tools-cl.com/">Live site</a><br>
-  <strong>WarapPay</strong> — contributed to the payment platform · <a href="https://warappay.com">Live site</a>
+  <strong>WarapPay</strong> — contributor to a payment platform · <a href="https://warappay.com">Live site</a>
 </p>
 
 <p><em>Selected projects are presented as experience references; their source code is not public.</em></p>
 
 <h3 align="left">Areas I work in:</h3>
 <p align="left">
-  <strong>Product engineering</strong> · web applications · SaaS products · landing pages · portfolios · web design/UI · dashboards · admin panels · APIs · automation tools · marketplaces · e-commerce · internal tools<br>  <strong>AI engineering</strong> · open-source LLMs · Ollama · Qwen · OpenAI models · Anthropic Claude · AI agents · prompt and workflow design<br>
+  <strong>Product engineering</strong> · web applications · SaaS products · landing pages · portfolios · web design/UI · dashboards · admin panels · APIs · automation tools · marketplaces · e-commerce · internal tools<br>  <strong>AI engineering</strong> · applied LLM workflows · open-source models · Ollama · Qwen · OpenAI · Anthropic Claude · AI agents<br>
   <strong>Infrastructure</strong> · Linux · VPS hosting · Docker · CI/CD pipelines · Jenkins · Kubernetes · deployments · server operations · networking and monitoring · backups and object storage (Cloudflare R2, Backblaze B2, Amazon S3)<br>
   <strong>Data</strong> · Supabase · PostgreSQL · Firebase · MySQL · MongoDB · Cassandra · relational and NoSQL data modeling<br>
   <strong>Project delivery</strong> · Agile · Scrum · Kanban · project management · Scrum Master practices<br>
