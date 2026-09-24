@@ -19,7 +19,8 @@
 <p align="left">
   <strong>KappGen</strong> — automated long-form video production · <a href="https://kappgen.com">Live site</a><br>
   <strong>iziVoice</strong> — voice and audio product · <a href="https://izivoice.app/">Live site</a><br>
-  <strong>Buy Me Data</strong> — creator support platform · <a href="https://buymedata.tools-cl.com/">Live site</a>
+  <strong>Buy Me Data</strong> — creator support platform · <a href="https://buymedata.tools-cl.com/">Live site</a><br>
+  <strong>WarapPay</strong> — contributed to the payment platform · <a href="https://warappay.com">Live site</a>
 </p>
 
 <p><em>Selected projects are presented as experience references; their source code is not public.</em></p>
