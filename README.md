@@ -27,9 +27,10 @@
 
 <h3 align="left">Areas I work in:</h3>
 <p align="left">
-  <strong>Product engineering</strong> · APIs · SaaS · media automation · dashboards<br>
-  <strong>Infrastructure</strong> · Linux · VPS hosting · Docker · deployments · server operations<br>
-  <strong>Data</strong> · Supabase · PostgreSQL · SQLite · application data modeling<br>
+  <strong>Product engineering</strong> · web applications · SaaS products · landing pages · portfolios · web design/UI · dashboards · admin panels · APIs · automation tools · marketplaces · e-commerce · internal tools<br>
+  <strong>Infrastructure</strong> · Linux · VPS hosting · Docker · CI/CD pipelines · Jenkins · Kubernetes · deployments · server operations · networking and monitoring<br>
+  <strong>Data</strong> · Supabase · PostgreSQL · Firebase · MySQL · MongoDB · Cassandra · relational and NoSQL data modeling<br>
+  <strong>Project delivery</strong> · Agile · Scrum · Kanban · project management · Scrum Master practices<br>
   <strong>Security</strong> · secure development fundamentals · cryptography fundamentals
 </p>
 
