@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roosevelt Mogo Kamdem</h1>
 <h3 align="center">Full-stack developer building digital products, infrastructure and applied AI workflows</h3>
 
-<img align="right" alt="Developer coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Developer coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rosby17&label=Profile%20views&color=0e75b6&style=flat" alt="rosby17 profile views" />
@@ -13,7 +13,7 @@
 - 🤖 I build applied AI workflows with **Ollama, Qwen, OpenAI, Claude and AI agents**
 - 🖥️ I operate **Linux/VPS environments, Docker, CI/CD pipelines and production services**
 - 🔐 I have a practical interest in **secure development and cryptography fundamentals**
-- 💬 Ask me about **FastAPI, Django, React/Vite, Supabase, APIs and product development**
+- 💬 Ask me about **FastAPI, React/Vite, Next.js, Supabase, APIs and product development**
 
 <h3 align="left">Featured projects:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 
 <h3 align="left">Areas I work in:</h3>
 <p align="left">
-  <strong>Product engineering</strong> · web applications · SaaS products · landing pages · portfolios · web design/UI · dashboards · admin panels · APIs · automation tools · marketplaces · e-commerce · internal tools<br>  <strong>AI engineering</strong> · applied LLM workflows · open-source models · Ollama · Qwen · OpenAI · Anthropic Claude · AI agents<br>
+  <strong>Product engineering</strong> · web applications · SaaS products · landing pages · portfolios · web design/UI · dashboards · admin panels · APIs · automation tools · marketplaces · e-commerce · internal tools<br>  <strong>AI engineering</strong> · applied LLM workflows · open-source models · Ollama · Qwen · OpenAI · Anthropic Claude · OpenClaw · AI agents<br>
   <strong>Infrastructure</strong> · Linux · VPS hosting · Docker · CI/CD pipelines · Jenkins · Kubernetes · deployments · server operations · networking and monitoring · backups and object storage (Cloudflare R2, Backblaze B2, Amazon S3)<br>
   <strong>Data</strong> · Supabase · PostgreSQL · Firebase · MySQL · MongoDB · Cassandra · relational and NoSQL data modeling<br>
   <strong>Project delivery</strong> · Agile · Scrum · Kanban · project management · Scrum Master practices<br>
@@ -50,10 +50,10 @@
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a>
   <a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" /></a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /></a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a>
-  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" /></a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" /></a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" /></a>
   <a href="https://soliditylang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40" /></a>
@@ -62,6 +62,15 @@
   <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" /></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+</p>
+
+<h3 align="left">AI & Agents:</h3>
+<p align="left">
+  <a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama" width="40" height="40" /></a>
+  <a href="https://openai.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="40" height="40" /></a>
+  <a href="https://www.anthropic.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/191919" alt="Anthropic Claude" width="40" height="40" /></a>
+  <a href="https://www.langchain.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40" /></a>
+  <a href="https://openclaw.ai" target="_blank" rel="noreferrer"><img src="https://openclaw.ai/favicon.ico" alt="OpenClaw" width="40" height="40" /></a>
 </p>
 
 <p align="center">
