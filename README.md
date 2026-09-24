@@ -27,7 +27,7 @@
 
 <h3 align="left">Areas I work in:</h3>
 <p align="left">
-  <strong>Product engineering</strong> · web applications · SaaS products · landing pages · portfolios · web design/UI · dashboards · admin panels · APIs · automation tools · marketplaces · e-commerce · internal tools<br>
+  <strong>Product engineering</strong> · web applications · SaaS products · landing pages · portfolios · web design/UI · dashboards · admin panels · APIs · automation tools · marketplaces · e-commerce · internal tools<br>  <strong>AI engineering</strong> · open-source LLMs · Ollama · Qwen · OpenAI models · Anthropic Claude · AI agents · prompt and workflow design<br>
   <strong>Infrastructure</strong> · Linux · VPS hosting · Docker · CI/CD pipelines · Jenkins · Kubernetes · deployments · server operations · networking and monitoring · backups and object storage (Cloudflare R2, Backblaze B2, Amazon S3)<br>
   <strong>Data</strong> · Supabase · PostgreSQL · Firebase · MySQL · MongoDB · Cassandra · relational and NoSQL data modeling<br>
   <strong>Project delivery</strong> · Agile · Scrum · Kanban · project management · Scrum Master practices<br>
