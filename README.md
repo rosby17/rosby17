@@ -13,6 +13,7 @@
 - 🗄️ I use **Supabase and relational databases** in full-stack products
 - 🔐 I have a practical interest in **information security and cryptography**
 - 🌱 I'm currently deepening my skills in **cloud infrastructure, DevOps and Kubernetes**
+- 🤖 I build AI-powered workflows with **Ollama, Qwen, OpenAI, Claude and AI agents**
 - 💬 Ask me about **FastAPI, Django, React/Vite, Supabase, APIs and product development**
 
 <h3 align="left">Featured projects:</h3>
