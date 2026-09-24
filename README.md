@@ -1,78 +1,41 @@
-<h1 align="center">Hi 👋, I'm Roosevelt Mogo Kamdem</h1>
-<h3 align="center">Full-stack developer building digital products, infrastructure and applied AI workflows</h3>
-
-<img align="right" alt="Developer coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rosby17&label=Profile%20views&color=0e75b6&style=flat" alt="rosby17 profile views" />
-</p>
-
-- 🧩 I design and build practical **web products** from idea to deployment
-- 🚀 Recent work includes **KappGen, iziVoice, Buy Me Data and WarapPay contributions**
-- 🛠️ I work across **frontend, backend, APIs, databases, infrastructure and deployments**
-- 🤖 I build applied AI workflows with **Ollama, Qwen, OpenAI, Claude and AI agents**
-- 🖥️ I operate **Linux/VPS environments, Docker, CI/CD pipelines and production services**
-- 🔐 I have a practical interest in **secure development and cryptography fundamentals**
-- 💬 Ask me about **FastAPI, React/Vite, Next.js, Supabase, APIs and product development**
-
-<h3 align="left">Featured projects:</h3>
-<p align="left">
-  <strong>KappGen</strong> — long-form video production platform · <a href="https://kappgen.com">Live site</a><br>
-  <strong>iziVoice</strong> — voice and audio product · <a href="https://izivoice.app/">Live site</a><br>
-  <strong>Buy Me Data</strong> — creator support platform · <a href="https://buymedata.tools-cl.com/">Live site</a><br>
-  <strong>WarapPay</strong> — contributor to a payment platform · <a href="https://warappay.com">Live site</a>
-</p>
-
-<p><em>Selected projects are presented as experience references; their source code is not public.</em></p>
-
-<h3 align="left">Areas I work in:</h3>
-<p align="left">
-  <strong>Product engineering</strong> · web applications · SaaS products · landing pages · portfolios · web design/UI · dashboards · admin panels · APIs · automation tools · marketplaces · e-commerce · internal tools<br>  <strong>AI engineering</strong> · applied LLM workflows · open-source models · Ollama · Qwen · OpenAI · Anthropic Claude · OpenClaw · AI agents<br>
-  <strong>Infrastructure</strong> · Linux · VPS hosting · Docker · CI/CD pipelines · Jenkins · Kubernetes · deployments · server operations · networking and monitoring · backups and object storage (Cloudflare R2, Backblaze B2, Amazon S3)<br>
-  <strong>Data</strong> · Supabase · PostgreSQL · Firebase · MySQL · MongoDB · Cassandra · relational and NoSQL data modeling<br>
-  <strong>Project delivery</strong> · Agile · Scrum · Kanban · project management · Scrum Master practices<br>
-  <strong>Security</strong> · secure development fundamentals · cryptography fundamentals
-</p>
-
-<h3 align="left">Currently exploring:</h3>
-<p align="left">cloud infrastructure · observability · advanced security practices</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/rosby17" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rosby17 on GitHub" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a>
-  <a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" /></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" /></a>
-  <a href="https://soliditylang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40" /></a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-</p>
-
-<h3 align="left">AI & Agents:</h3>
-<p align="left">
-  <a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama" width="40" height="40" /></a>
-  <a href="https://openai.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="40" height="40" /></a>
-  <a href="https://www.anthropic.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/191919" alt="Anthropic Claude" width="40" height="40" /></a>
-  <a href="https://www.langchain.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40" /></a>
-  <a href="https://openclaw.ai" target="_blank" rel="noreferrer"><img src="https://openclaw.ai/favicon.ico" alt="OpenClaw" width="40" height="40" /></a>
-</p>
+<h1 align="center">Roosevelt Mogo Kamdem</h1>
+<p align="center">Full-stack developer building web products, infrastructure and applied AI systems.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosby17&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://komarev.com/ghpvc/?username=rosby17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+I design, build and deploy practical digital products. I work across frontend, backend, APIs, databases, servers and AI workflows.
+
+### Featured projects
+
+- **iziVoice** — voice synthesis, audio generation and AI music creation · [Live site](https://izivoice.app/)
+- **Buy Me Data** — support platform for content creators · [Live site](https://buymedata.tools-cl.com/)
+- **KappGen** — long-form video content creation for YouTube · [Live site](https://kappgen.com)
+- **WarapPay** — platform for selling digital and physical products · [Live site](https://warappay.com)
+
+The projects above are presented as experience references. Their source code is not public.
+
+### Areas of work
+
+- **Product engineering:** web applications, SaaS, landing pages, portfolios, dashboards, admin panels, APIs and automation tools
+- **Infrastructure:** Linux, VPS, Docker, CI/CD, Jenkins, Kubernetes, deployments, server operations, backups and object storage with R2, B2 and S3
+- **AI engineering:** Ollama, Qwen, OpenAI, Claude, OpenClaw and AI-agent workflows
+- **Data:** Supabase, PostgreSQL, Firebase, MySQL, MongoDB and Cassandra
+- **Delivery:** Agile, Scrum, Kanban and project management
+- **Security:** secure development and cryptography fundamentals
+
+### Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,vite,tailwind,fastapi,dart,flutter,docker,linux,git,supabase,postgres,mongodb" alt="Technologies: Python, TypeScript, JavaScript, React, Next.js, Vite, Tailwind, FastAPI, Dart, Flutter, Docker, Linux, Git, Supabase, PostgreSQL and MongoDB" />
+</p>
+
+### AI tools
+
+<p>
+  <a href="https://ollama.com"><img src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama" width="32" height="32" /></a>
+  <a href="https://openai.com"><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="32" height="32" /></a>
+  <a href="https://www.anthropic.com"><img src="https://cdn.simpleicons.org/anthropic/191919" alt="Claude" width="32" height="32" /></a>
+  <a href="https://openclaw.ai"><img src="https://openclaw.ai/favicon.ico" alt="OpenClaw" width="32" height="32" /></a>
 </p>
