@@ -17,13 +17,15 @@
 
 <h3 align="left">Featured projects:</h3>
 <p align="left">
-  <a href="https://github.com/rosby17/kappgen"><strong>KappGen</strong></a> — automated long-form video production<br>
-  <a href="https://github.com/rosby17/kappgen-frontend"><strong>KappGen Frontend</strong></a> — React/Vite interface<br>
-  <a href="https://github.com/rosby17/izivoice"><strong>iziVoice</strong></a> — voice and audio product<br>
-  <a href="https://github.com/rosby17/buymedata"><strong>Buy Me Data</strong></a> — creator support platform<br>
-  <a href="https://github.com/rosby17/guiemrichard"><strong>Guiem Richard</strong></a> — custom React/Vite/Supabase platform<br>
-  <a href="https://github.com/rosby17/tools-cl"><strong>Tools CL</strong></a> — collection of useful web tools
+  <strong>KappGen</strong> — automated long-form video production · <a href="https://app.kappgen.com">Live site</a><br>
+  <strong>KappGen Frontend</strong> — React/Vite interface (private project)<br>
+  <strong>iziVoice</strong> — voice and audio product · <a href="https://izivoice.app">Live site</a><br>
+  <strong>Buy Me Data</strong> — creator support platform (private project)<br>
+  <strong>Guiem Richard</strong> — custom React/Vite/Supabase platform (private project)<br>
+  <strong>Tools CL</strong> — collection of useful web tools (private project)
 </p>
+
+<p><em>Selected projects are presented as experience references; their source code is not public.</em></p>
 
 <h3 align="left">Areas I work in:</h3>
 <p align="left">
