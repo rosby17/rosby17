@@ -17,12 +17,9 @@
 
 <h3 align="left">Featured projects:</h3>
 <p align="left">
-  <strong>KappGen</strong> — automated long-form video production · <a href="https://app.kappgen.com">Live site</a><br>
-  <strong>KappGen Frontend</strong> — React/Vite interface (private project)<br>
-  <strong>iziVoice</strong> — voice and audio product · <a href="https://izivoice.app">Live site</a><br>
-  <strong>Buy Me Data</strong> — creator support platform (private project)<br>
-  <strong>Guiem Richard</strong> — custom React/Vite/Supabase platform (private project)<br>
-  <strong>Tools CL</strong> — collection of useful web tools (private project)
+  <strong>KappGen</strong> — automated long-form video production · <a href="https://kappgen.com">Live site</a><br>
+  <strong>iziVoice</strong> — voice and audio product · <a href="https://izivoice.app/">Live site</a><br>
+  <strong>Buy Me Data</strong> — creator support platform · <a href="https://buymedata.tools-cl.com/">Live site</a>
 </p>
 
 <p><em>Selected projects are presented as experience references; their source code is not public.</em></p>
