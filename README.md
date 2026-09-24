@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Currently exploring:</h3>
-<p align="left">Kubernetes · cloud infrastructure · observability · security practices</p>
+<p align="left">cloud infrastructure · observability · advanced security practices</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
