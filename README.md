@@ -20,7 +20,7 @@ The projects above are presented as experience references. Their source code is 
 
 - **Product engineering:** web applications, SaaS, landing pages, portfolios, dashboards, admin panels, APIs and automation tools
 - **Infrastructure:** Linux, VPS, Docker, CI/CD, Jenkins, Kubernetes, deployments, server operations, backups and object storage with R2, B2 and S3
-- **AI engineering:** Ollama, Qwen, OpenAI, Claude, OpenClaw and AI-agent workflows
+- **AI engineering:** model training and fine-tuning with PyTorch and Hugging Face (Transformers, PEFT/LoRA), speech AI (text-to-speech, voice cloning, Whisper speech-to-text, audio processing with torchaudio and librosa), GPU training and inference on RunPod, LLMs (Ollama, Qwen, OpenAI, Claude, OpenClaw) and AI-agent workflows
 - **Data:** Supabase, PostgreSQL, Firebase, MySQL, MongoDB and Cassandra
 - **Delivery:** Agile, Scrum, Kanban and project management
 - **Security:** secure development and cryptography fundamentals
@@ -29,6 +29,17 @@ The projects above are presented as experience references. Their source code is 
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,vite,tailwind,fastapi,dart,flutter,docker,linux,git,supabase,postgres,mongodb" alt="Technologies: Python, TypeScript, JavaScript, React, Next.js, Vite, Tailwind, FastAPI, Dart, Flutter, Docker, Linux, Git, Supabase, PostgreSQL and MongoDB" />
+</p>
+
+### AI and machine learning
+
+<p>
+  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+  <a href="https://huggingface.co"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://huggingface.co/docs/transformers"><img src="https://img.shields.io/badge/Transformers-1F2937?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Transformers" /></a>
+  <a href="https://github.com/openai/whisper"><img src="https://img.shields.io/badge/Whisper-10A37F?style=for-the-badge" alt="Whisper" /></a>
+  <a href="https://www.runpod.io"><img src="https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge" alt="RunPod" /></a>
+  <a href="https://pytorch.org/audio"><img src="https://img.shields.io/badge/torchaudio-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="torchaudio" /></a>
 </p>
 
 ### AI tools
