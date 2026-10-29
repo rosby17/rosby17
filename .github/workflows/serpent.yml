@@ -23,7 +23,8 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
       - name: Ranger les animations sur la branche output
         run: |
-          cd dist
+          # le dossier dist appartient à l'utilisateur du conteneur de Platane/snk : on copie dans un dossier neuf
+          mkdir publier && cp dist/* publier/ && cd publier
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
