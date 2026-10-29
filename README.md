@@ -34,23 +34,20 @@ The projects above are presented as experience references. Their source code is 
 ### AI and machine learning
 
 <p>
-  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
-  <a href="https://huggingface.co"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="https://huggingface.co/docs/transformers"><img src="https://img.shields.io/badge/Transformers-1F2937?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Transformers" /></a>
-  <a href="https://github.com/openai/whisper"><img src="https://img.shields.io/badge/Whisper-10A37F?style=for-the-badge" alt="Whisper" /></a>
-  <a href="https://www.runpod.io"><img src="https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge" alt="RunPod" /></a>
-  <a href="https://vast.ai"><img src="https://img.shields.io/badge/Vast.ai-0B1F3A?style=for-the-badge" alt="Vast.ai" /></a>
-  <a href="https://pytorch.org/audio"><img src="https://img.shields.io/badge/torchaudio-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="torchaudio" /></a>
+  <a href="https://pytorch.org" title="PyTorch"><img src="icons/pytorch.svg" width="48" height="48" alt="PyTorch" /></a>
+  <a href="https://huggingface.co" title="Hugging Face"><img src="icons/huggingface.svg" width="48" height="48" alt="Hugging Face" /></a>
+  <a href="https://www.runpod.io" title="RunPod"><img src="icons/runpod.svg" width="48" height="48" alt="RunPod" /></a>
+  <a href="https://vast.ai" title="Vast.ai"><img src="icons/vastai.svg" width="48" height="48" alt="Vast.ai" /></a>
 </p>
 
 ### AI tools
 
 <p>
-  <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
-  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge" alt="OpenAI" /></a>
-  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /></a>
-  <a href="https://openclaw.ai"><img src="https://img.shields.io/badge/OpenClaw-1F2937?style=for-the-badge" alt="OpenClaw" /></a>
-  <a href="https://qwenlm.github.io"><img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge" alt="Qwen" /></a>
+  <a href="https://ollama.com" title="Ollama"><img src="icons/ollama.svg" width="48" height="48" alt="Ollama" /></a>
+  <a href="https://openai.com" title="OpenAI"><img src="icons/openai.svg" width="48" height="48" alt="OpenAI" /></a>
+  <a href="https://www.anthropic.com" title="Claude"><img src="icons/claude.svg" width="48" height="48" alt="Claude" /></a>
+  <a href="https://openclaw.ai" title="OpenClaw"><img src="icons/openclaw.svg" width="48" height="48" alt="OpenClaw" /></a>
+  <a href="https://qwenlm.github.io" title="Qwen"><img src="icons/qwen.svg" width="48" height="48" alt="Qwen" /></a>
 </p>
 
 ### Activity
