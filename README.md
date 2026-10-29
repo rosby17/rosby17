@@ -39,3 +39,11 @@ The projects above are presented as experience references. Their source code is 
   <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" width="32" height="32" /></a>
   <a href="https://openclaw.ai"><img src="https://img.shields.io/badge/OpenClaw-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="OpenClaw" width="32" height="32" /></a>
 </p>
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rosby17/rosby17/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rosby17/rosby17/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/rosby17/rosby17/output/github-snake.svg" />
+</picture>

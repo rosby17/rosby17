@@ -1,0 +1,32 @@
+# Serpent qui mange le tableau d'activités du profil (Platane/snk).
+# Redessiné chaque nuit, à chaque modification du README et à la demande ;
+# les animations sont rangées sur la branche « output » et affichées dans le README.
+name: Serpent des activités
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  dessiner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - name: Ranger les animations sur la branche output
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Serpent du $(date -u '+%d/%m/%Y')"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" output
