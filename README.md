@@ -34,10 +34,11 @@ The projects above are presented as experience references. Their source code is 
 ### AI tools
 
 <p>
-  <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" width="32" height="32" /></a>
-  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" width="32" height="32" /></a>
-  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" width="32" height="32" /></a>
-  <a href="https://openclaw.ai"><img src="https://img.shields.io/badge/OpenClaw-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="OpenClaw" width="32" height="32" /></a>
+  <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge" alt="OpenAI" /></a>
+  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /></a>
+  <a href="https://openclaw.ai"><img src="https://img.shields.io/badge/OpenClaw-1F2937?style=for-the-badge" alt="OpenClaw" /></a>
+  <a href="https://qwenlm.github.io"><img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge" alt="Qwen" /></a>
 </p>
 
 ### Activity

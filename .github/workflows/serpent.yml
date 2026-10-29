@@ -18,9 +18,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # serpent orange iziVoice (#ff5b00) qui mange des carrés bleu KappGen (#2f5bea), du plus clair au plus intense
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#ff5b00&color_dots=#eef1f8,#c9d5fb,#93abf6,#5f84f0,#2f5bea&color_dot_border=#1b1f230d
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff6a14&color_dots=#161b22,#16295e,#1f3f9c,#2f5bea,#7f9dff&color_dot_border=#ffffff0d
       - name: Ranger les animations sur la branche output
         run: |
           # le dossier dist appartient à l'utilisateur du conteneur de Platane/snk : on copie dans un dossier neuf
