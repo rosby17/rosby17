@@ -1,5 +1,5 @@
 <h1 align="center">Roosevelt Mogo Kamdem</h1>
-<p align="center">Full-stack &amp; cybersecurity engineer · CEO &amp; Founder, Gokamo<br/>Building web products, infrastructure and applied AI systems.</p>
+<p align="center">AI, Full-stack &amp; Cybersecurity Engineer · CEO &amp; Founder, Gokamo<br/>Building web products, infrastructure and applied AI systems.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rosby17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
